@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "rest_api_vir/bin/python2.7",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
